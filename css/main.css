@@ -1,0 +1,37 @@
+@font-face {
+  font-family: Asap;
+  src: url(..//font/Asap/static/Asap-Black.ttf) format(truetype);
+}
+
+@font-face {
+  font-family: Asap-Medium;
+  src: url(..//font/Asap/static/Asap-Medium.ttf) format(truetype);
+}
+
+@font-face {
+  font-family: Asap-Extra;
+  src: url(../font/Asap/static/Asap-ExtraBold.ttf) format(truetype);
+}
+
+header {
+  background-color: #063a64;
+}
+
+h1 {
+  font-family: Asap-Extra;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: Asap-Medium;
+  font-weight: 50;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+p {
+  font-family: Asap-Medium;
+  font-size: 20px;
+  color: #ffffff;
+}
